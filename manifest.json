@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "sha256": {
-    "content.html": "d9aab340a97e350f225b9ba437809efd8ba3355038e36ec66b19a5dce6b9689e",
-    "finance.html": "9347f90f2b802fbc0e63802b0695e0daf85e549d756f9c873cf5e829b1fb11c2",
-    "sales.html": "ef1e737b7a1334dcb70e518760edb8eca7d049132a2463be58a95e84b3a8d45f"
+    "content.html": "69fddb70f0c320134dab1dbac9c1271b1b2049d1add3da65b7ec7f697a1315f0",
+    "finance.html": "5e45bec02c0e26f97f12b49814eca14bec52494d6ee35366b8535a0ba0f109af",
+    "sales.html": "d4fe5b60247c3ff7c82f184e1a065c243ef2cf7142e12bd10b4602b0d717941c"
   }
 }

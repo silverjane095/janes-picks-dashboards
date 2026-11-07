@@ -1,0 +1,422 @@
+{
+  "finance": {
+    "title": "재정 관리",
+    "en": "FINANCE OVERVIEW",
+    "intro": "들어온 돈과 나간 돈을 함께 보고, 기간별 수지를 확인하세요.",
+    "note": "수지는 선택 기간의 수입 − 지출입니다. 계좌의 실제 잔액이나 세후 이익을 뜻하지 않습니다.",
+    "data": [
+      {
+        "month": "2026-01",
+        "income": 4970000,
+        "expense": 2930000
+      },
+      {
+        "month": "2026-02",
+        "income": 5340000,
+        "expense": 3160000
+      },
+      {
+        "month": "2026-03",
+        "income": 5710000,
+        "expense": 3390000
+      },
+      {
+        "month": "2026-04",
+        "income": 6080000,
+        "expense": 3620000
+      },
+      {
+        "month": "2026-05",
+        "income": 4950000,
+        "expense": 2750000
+      },
+      {
+        "month": "2026-06",
+        "income": 5320000,
+        "expense": 2980000
+      },
+      {
+        "month": "2026-07",
+        "income": 5690000,
+        "expense": 3210000
+      },
+      {
+        "month": "2026-08",
+        "income": 6060000,
+        "expense": 3440000
+      },
+      {
+        "month": "2026-09",
+        "income": 4930000,
+        "expense": 3670000
+      },
+      {
+        "month": "2026-10",
+        "income": 5300000,
+        "expense": 2800000
+      },
+      {
+        "month": "2026-11",
+        "income": 5670000,
+        "expense": 3030000
+      },
+      {
+        "month": "2026-12",
+        "income": 6040000,
+        "expense": 3260000
+      }
+    ]
+  },
+  "sales": {
+    "title": "매출 현황",
+    "en": "SALES OVERVIEW",
+    "intro": "채널과 기간을 바꾸며 매출, 주문 수, 환불을 비교하세요.",
+    "note": "매출은 환불 전 금액, 객단가는 매출 ÷ 주문 수입니다. 세금·원가·이익은 포함하지 않습니다.",
+    "data": [
+      {
+        "month": "2026-01",
+        "channel": "온라인",
+        "orders": 93,
+        "revenue": 3906000,
+        "refund": 97650
+      },
+      {
+        "month": "2026-01",
+        "channel": "오프라인",
+        "orders": 52,
+        "revenue": 1872000,
+        "refund": 46800
+      },
+      {
+        "month": "2026-01",
+        "channel": "제휴",
+        "orders": 25,
+        "revenue": 1275000,
+        "refund": 31875
+      },
+      {
+        "month": "2026-02",
+        "channel": "온라인",
+        "orders": 106,
+        "revenue": 4452000,
+        "refund": 111300
+      },
+      {
+        "month": "2026-02",
+        "channel": "오프라인",
+        "orders": 59,
+        "revenue": 2124000,
+        "refund": 53100
+      },
+      {
+        "month": "2026-02",
+        "channel": "제휴",
+        "orders": 30,
+        "revenue": 1530000,
+        "refund": 38250
+      },
+      {
+        "month": "2026-03",
+        "channel": "온라인",
+        "orders": 119,
+        "revenue": 4998000,
+        "refund": 124950
+      },
+      {
+        "month": "2026-03",
+        "channel": "오프라인",
+        "orders": 66,
+        "revenue": 2376000,
+        "refund": 59400
+      },
+      {
+        "month": "2026-03",
+        "channel": "제휴",
+        "orders": 35,
+        "revenue": 1785000,
+        "refund": 44625
+      },
+      {
+        "month": "2026-04",
+        "channel": "온라인",
+        "orders": 132,
+        "revenue": 5544000,
+        "refund": 138600
+      },
+      {
+        "month": "2026-04",
+        "channel": "오프라인",
+        "orders": 73,
+        "revenue": 2628000,
+        "refund": 65700
+      },
+      {
+        "month": "2026-04",
+        "channel": "제휴",
+        "orders": 40,
+        "revenue": 2040000,
+        "refund": 51000
+      },
+      {
+        "month": "2026-05",
+        "channel": "온라인",
+        "orders": 90,
+        "revenue": 3780000,
+        "refund": 94500
+      },
+      {
+        "month": "2026-05",
+        "channel": "오프라인",
+        "orders": 50,
+        "revenue": 1800000,
+        "refund": 45000
+      },
+      {
+        "month": "2026-05",
+        "channel": "제휴",
+        "orders": 23,
+        "revenue": 1173000,
+        "refund": 29325
+      },
+      {
+        "month": "2026-06",
+        "channel": "온라인",
+        "orders": 103,
+        "revenue": 4326000,
+        "refund": 108150
+      },
+      {
+        "month": "2026-06",
+        "channel": "오프라인",
+        "orders": 57,
+        "revenue": 2052000,
+        "refund": 51300
+      },
+      {
+        "month": "2026-06",
+        "channel": "제휴",
+        "orders": 28,
+        "revenue": 1428000,
+        "refund": 35700
+      },
+      {
+        "month": "2026-07",
+        "channel": "온라인",
+        "orders": 116,
+        "revenue": 4872000,
+        "refund": 121800
+      },
+      {
+        "month": "2026-07",
+        "channel": "오프라인",
+        "orders": 64,
+        "revenue": 2304000,
+        "refund": 57600
+      },
+      {
+        "month": "2026-07",
+        "channel": "제휴",
+        "orders": 33,
+        "revenue": 1683000,
+        "refund": 42075
+      },
+      {
+        "month": "2026-08",
+        "channel": "온라인",
+        "orders": 129,
+        "revenue": 5418000,
+        "refund": 135450
+      },
+      {
+        "month": "2026-08",
+        "channel": "오프라인",
+        "orders": 71,
+        "revenue": 2556000,
+        "refund": 63900
+      },
+      {
+        "month": "2026-08",
+        "channel": "제휴",
+        "orders": 38,
+        "revenue": 1938000,
+        "refund": 48450
+      },
+      {
+        "month": "2026-09",
+        "channel": "온라인",
+        "orders": 87,
+        "revenue": 3654000,
+        "refund": 91350
+      },
+      {
+        "month": "2026-09",
+        "channel": "오프라인",
+        "orders": 48,
+        "revenue": 1728000,
+        "refund": 43200
+      },
+      {
+        "month": "2026-09",
+        "channel": "제휴",
+        "orders": 21,
+        "revenue": 1071000,
+        "refund": 26775
+      },
+      {
+        "month": "2026-10",
+        "channel": "온라인",
+        "orders": 100,
+        "revenue": 4200000,
+        "refund": 105000
+      },
+      {
+        "month": "2026-10",
+        "channel": "오프라인",
+        "orders": 55,
+        "revenue": 1980000,
+        "refund": 49500
+      },
+      {
+        "month": "2026-10",
+        "channel": "제휴",
+        "orders": 26,
+        "revenue": 1326000,
+        "refund": 33150
+      },
+      {
+        "month": "2026-11",
+        "channel": "온라인",
+        "orders": 113,
+        "revenue": 4746000,
+        "refund": 118650
+      },
+      {
+        "month": "2026-11",
+        "channel": "오프라인",
+        "orders": 62,
+        "revenue": 2232000,
+        "refund": 55800
+      },
+      {
+        "month": "2026-11",
+        "channel": "제휴",
+        "orders": 31,
+        "revenue": 1581000,
+        "refund": 39525
+      },
+      {
+        "month": "2026-12",
+        "channel": "온라인",
+        "orders": 126,
+        "revenue": 5292000,
+        "refund": 132300
+      },
+      {
+        "month": "2026-12",
+        "channel": "오프라인",
+        "orders": 69,
+        "revenue": 2484000,
+        "refund": 62100
+      },
+      {
+        "month": "2026-12",
+        "channel": "제휴",
+        "orders": 36,
+        "revenue": 1836000,
+        "refund": 45900
+      }
+    ]
+  },
+  "content": {
+    "title": "콘텐츠 운영",
+    "en": "CONTENT STUDIO",
+    "intro": "기획부터 발행까지. 채널별 제작 현황과 다음 일정을 한눈에 확인하세요.",
+    "note": "일정은 2026년 11월 가상 예시입니다. 보드는 조회용이며 드래그 이동·일정 저장·게시 기능은 없습니다.",
+    "data": [
+      {
+        "title": "AI 용어 카드뉴스",
+        "channel": "Instagram",
+        "stage": "기획",
+        "date": "2026-11-10",
+        "owner": "지민"
+      },
+      {
+        "title": "업무 자동화 입문",
+        "channel": "YouTube",
+        "stage": "제작",
+        "date": "2026-11-12",
+        "owner": "서윤"
+      },
+      {
+        "title": "주간 AI 소식",
+        "channel": "뉴스레터",
+        "stage": "검토",
+        "date": "2026-11-08",
+        "owner": "민준"
+      },
+      {
+        "title": "대시보드 활용법",
+        "channel": "YouTube",
+        "stage": "발행",
+        "date": "2026-11-05",
+        "owner": "지민"
+      },
+      {
+        "title": "프롬프트 체크리스트",
+        "channel": "Instagram",
+        "stage": "제작",
+        "date": "2026-11-11",
+        "owner": "서윤"
+      },
+      {
+        "title": "레퍼런스 모음",
+        "channel": "뉴스레터",
+        "stage": "발행",
+        "date": "2026-11-03",
+        "owner": "민준"
+      },
+      {
+        "title": "카메라 움직임 비교",
+        "channel": "YouTube",
+        "stage": "기획",
+        "date": "2026-11-18",
+        "owner": "서윤"
+      },
+      {
+        "title": "실무 팁 5가지",
+        "channel": "Instagram",
+        "stage": "검토",
+        "date": "2026-11-09",
+        "owner": "지민"
+      },
+      {
+        "title": "11월 제작 노트",
+        "channel": "뉴스레터",
+        "stage": "기획",
+        "date": "2026-11-20",
+        "owner": "민준"
+      },
+      {
+        "title": "컴포넌트 이름 사전",
+        "channel": "Instagram",
+        "stage": "발행",
+        "date": "2026-11-02",
+        "owner": "지민"
+      },
+      {
+        "title": "파일 정리 자동화",
+        "channel": "YouTube",
+        "stage": "검토",
+        "date": "2026-11-07",
+        "owner": "서윤"
+      },
+      {
+        "title": "월간 결산",
+        "channel": "뉴스레터",
+        "stage": "제작",
+        "date": "2026-11-25",
+        "owner": "민준"
+      }
+    ]
+  }
+}
